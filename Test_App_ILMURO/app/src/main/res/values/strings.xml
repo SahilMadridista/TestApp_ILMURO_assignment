@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TestAppILMURO</string>
+    <string name="contentdesc">Content Description</string>
+    <string name="thebest">The best</string>
+    <string name="worldmodel">world models</string>
+    <string name="easiest">is the easiest way to find</string>
+    <string name="model">a model for your event</string>
+    <string name="number">153K</string>
+    <string name="followers">FOLLOWERS</string>
+    <string name="numpic">734</string>
+    <string name="photos">PHOTOS</string>
+    <string name="name">SARAH GELLER</string>
+    <string name="location">Los Angeles</string>
+    <string name="follow">+ FOLLOW</string>
+    <string name="msg">MESSAGE</string>
+    <string name="viewall">View All</string>
+    <string name="videos">Video Fragment</string>
+    <string name="lifestyle">Lifestyle Fragment</string>
+    <string name="collab">Collaboration Fragment</string>
+</resources>
